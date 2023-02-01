@@ -19,3 +19,15 @@ My favourite sport is **volleyball**. I have been playing it from my **Schooling
 
 **[AboutMe](AboutMe.md)**
 
+****
+
+## World Tour
+
+Countries I suggest one should visit 
+
+| Country Name | Reason | Days |
+| :---: | :---: | :---: |
+| India | Various Cultures | 30 |
+| USA | Nature | 50 |
+| Paris | City | 20 |
+| France | Food | 40 |
